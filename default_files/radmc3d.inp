@@ -2,3 +2,4 @@ nphot = 1000
 scattering_mode_max = 0
 lines_mode = 3
 iranfreqmode = 1
+catch_doppler_resolution = 0.05
